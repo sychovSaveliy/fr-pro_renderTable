@@ -1,0 +1,35 @@
+.main__table {
+    margin: 20px;
+}
+
+.main__table td, .main__table th {
+    border: 2px solid black;
+}
+
+
+th {
+    font-size: 20px;
+}
+
+
+.popup__container {
+    position: fixed;
+    display: none;
+    padding: 40px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    border: 4px solid blue;
+}
+
+.popup__container.active {
+    display: block;
+}
+
+
+
+.hideElement, .hideElement td {
+    height: 0;
+    transition: 1s;
+    font-size: 0;
+    padding: 0;
+}

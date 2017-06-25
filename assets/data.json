@@ -1,0 +1,155 @@
+{
+  "locale": "uk",
+  "skiner": "Light",
+  "modification": "",
+  "services": {
+    "CategoryElement_1": [
+      {
+        "enabled": true,
+        "icon": "logo-kyivstar.png",
+        "submenu": false,
+        "generic": false,
+        "text": "Київстар",
+        "element_id": "GenericPaymentService_62_10",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-vodafone.png",
+        "submenu": true,
+        "generic": false,
+        "text": "Оплата послуг зв'язку Vodafone",
+        "element_id": "SubmenuElement_3096",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-life.png",
+        "submenu": true,
+        "generic": false,
+        "text": "Lifecell (Life)",
+        "element_id": "SubmenuElement_5556",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-webmoney_new.png",
+        "submenu": false,
+        "generic": false,
+        "text": "Вебмані юа",
+        "element_id": "GenericPaymentService_963_935",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-tascombank.png",
+        "submenu": true,
+        "generic": false,
+        "text": "АТ \"ТАСКОМБАНК\"",
+        "element_id": "SubmenuElement_6464",
+        "icon_resize": false,
+        "new_service": false
+      }
+    ],
+    "CategoryElement_2": [
+      {
+        "enabled": true,
+        "icon": "subcategory-pawnshops_ua.png",
+        "submenu": true,
+        "generic": false,
+        "text": "Ломбарди",
+        "element_id": "SubmenuElement_2288",
+        "icon_resize": true,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "subcategory-insurance_ua.png",
+        "submenu": true,
+        "generic": false,
+        "text": "Страхування",
+        "element_id": "SubmenuElement_2287",
+        "icon_resize": true,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-money-transfer_ua.png",
+        "submenu": true,
+        "generic": false,
+        "text": "Адресний платіж",
+        "element_id": "SubmenuElement_4994",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-privatbank.png",
+        "submenu": false,
+        "generic": false,
+        "text": "Миттєве поповнення картки ПриватБанку",
+        "element_id": "GenericPaymentService_3534_2139",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-credit2u.png",
+        "submenu": false,
+        "generic": false,
+        "text": "ТОВ \"КРЕДИТ ТУ Ю\" (CREDIT2U)",
+        "element_id": "GenericPaymentService_3604_4883",
+        "icon_resize": false,
+        "new_service": false
+      },
+      {
+        "enabled": true,
+        "icon": "logo-moneyveo.png",
+        "submenu": true,
+        "generic": false,
+        "text": "МАНІВЕО(Moneyveo)",
+        "element_id": "SubmenuElement_2301",
+        "icon_resize": false,
+        "new_service": false
+      }
+    ]
+  },
+  "categories": [
+    {
+      "enabled": true,
+      "icon": "category-mobile.png",
+      "text": "Мобільнийзв'язок та телефон ",
+      "element_id": "CategoryElement_1",
+      "game_`services`": []
+    },
+    {
+      "enabled": true,
+      "icon": "category-internet.png",
+      "text": "Інтернет та телебачення",
+      "element_id": "CategoryElement_4",
+      "game_services": []
+    },
+    {
+      "enabled": true,
+      "icon": "category-roaming.png",
+      "text": "Роумінг та IP-телефонія",
+      "element_id": "CategoryElement_2290",
+      "game_services": []
+    },
+    {
+      "enabled": true,
+      "icon": "category-home.png",
+      "text": "Комунальні платежі",
+      "element_id": "CategoryElement_8",
+      "game_services": []
+    }
+  ],
+  "postamatActive": false,
+  "printService": false,
+  "postamat": false,
+  "print_service_enabled": true
+}
